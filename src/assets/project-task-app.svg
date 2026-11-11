@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <!-- Placeholder screenshot: replace with an image exported from Figma or your real project -->
+  <rect width="640" height="380" rx="6" fill="#ffffff"/>
+  <rect width="640" height="34" rx="6" fill="#e9ecf1"/>
+  <rect y="20" width="640" height="14" fill="#e9ecf1"/>
+  <circle cx="18" cy="17" r="5" fill="#ff5f57"/>
+  <circle cx="34" cy="17" r="5" fill="#febc2e"/>
+  <circle cx="50" cy="17" r="5" fill="#28c840"/>
+  <rect x="80" y="9" width="300" height="16" rx="8" fill="#ffffff"/>
+  <rect x="0" y="34" width="640" height="26" fill="#f6f7f9"/>
+  <rect x="16" y="43" width="70" height="8" rx="4" fill="#c9ced8"/>
+  <rect x="540" y="43" width="84" height="8" rx="4" fill="#c9ced8"/>
+  <g transform="translate(292 120)">
+    <rect x="8" y="18" width="40" height="52" rx="4" fill="#3b82f6"/>
+    <rect x="14" y="28" width="28" height="4" rx="2" fill="#fff"/>
+    <rect x="14" y="38" width="20" height="4" rx="2" fill="#fff"/>
+    <rect x="14" y="48" width="24" height="4" rx="2" fill="#fff"/>
+    <circle cx="28" cy="6" r="10" fill="#f59e0b"/>
+    <circle cx="56" cy="14" r="7" fill="#ef4444"/>
+    <circle cx="0" cy="36" r="6" fill="#10b981"/>
+  </g>
+  <text x="320" y="225" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">Manage Task App</text>
+  <rect x="200" y="245" width="240" height="26" rx="3" fill="#2563eb"/>
+  <text x="320" y="262" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#ffffff">Add Task</text>
+</svg>
